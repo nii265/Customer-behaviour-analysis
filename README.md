@@ -1,2 +1,3 @@
 # Customer-behaviour-analysis
 Analysing synthetic e-commerce customer data to derive actionable insights, build predictive models and improve business decision making
+This project focuses on analyzing customer behavior on an e-commerce platform using a synthetic dataset. It includes data cleaning, exploratory data analysis (EDA), feature engineering, predictive modeling (e.g., churn prediction), and visualization of insights. The project also explores the use of big data tools for managing large-scale data. All analysis and modeling are performed using Python in a Jupyter Notebook environment, with well-commented code and documented business recommendations.
