@@ -1,0 +1,9 @@
+pandas
+numpy
+datetime
+uuid
+faker
+matplotlib
+seaborn
+scikit-learn
+datetime
